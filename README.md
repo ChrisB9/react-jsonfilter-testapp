@@ -6,6 +6,6 @@ Implement a small JavaScript app which allows to search for color, type and pric
 
 ## Instructions
 
-- clone
+- clone & npm install
 - npm start -> localhost:3000
 - npm test
